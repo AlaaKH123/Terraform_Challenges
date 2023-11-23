@@ -7,12 +7,7 @@ This repository contains my solutions for the [Kodekloud Terraform challenges](h
 The repository contains the following challenges:
 
 ## Installation
-First and Second Challenge start with Installation of terraform
-- you Can know steps from 
-  - https://phoenixnap.com/kb/how-to-install-terraform#ftoc-heading-5 
-- you can download requested version (1.1.5) of terraform from 
-  -  https://releases.hashicorp.com/terraform/1.1.5/
-### OR USE This
+
 ```
 sudo apt update
 sudo apt install unzip
